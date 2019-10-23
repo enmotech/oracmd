@@ -3,7 +3,7 @@
 # This script should be run via curl:
 #   sh -c "$(curl -fsSL https://raw.githubusercontent.com/enmotech/oracmd/install.sh)"
 # or wget:
-#   sh -c "$(wget -qO- https://raw.githubusercontent.com/enmotech/oracmd/nstall.sh)"
+#   sh -c "$(wget -qO- https://raw.githubusercontent.com/enmotech/oracmd/install.sh)"
 
 repo=enmotech/oracmd
 hardware=`uname -m`
